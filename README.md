@@ -2,5 +2,5 @@
  And also for theory assignments of DBMS
 
 
-Naame: Akansha 
+Name: Akansha 
 RollNO: 2401010195
